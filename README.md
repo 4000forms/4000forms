@@ -1,4 +1,10 @@
 ## Hi there 👋
+I am a year1 -> year2 PIR student interested in quantitative methods in political science, trying to get increasingly R-literate.
+I'm working through Quantitative Social Science by Kosuke Imai + Quantitative Research Methods for Political Science, Public Policy and Public Administration by Jenkins-Smith, Ripberger and Copeland 4th Edition. Currently on multiple regression.
+I'm working on a public dataset cleaning project, likely election data! Hopefully it will end in a really cool interactive map (after a good clean ofc). After that I'm doing some scraping.
+How to reach me: zctqwuk@ucl.ac.uk
+Motto: It's a non-stop disco
+
 
 <!--
 **4000forms/4000forms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
